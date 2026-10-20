@@ -1,0 +1,23 @@
+{
+  "name": "plausible-ba",
+  "displayName": "PlausibleBA — Business Architecture Skills",
+  "version": "2.0.1",
+  "description": "Methodology-grade business architecture for Claude. Six skills: ba-opmodel-context builds a sourced Context Document before discovery; ba-plausibleba, ba-capability-mapping, ba-concept-model and ba-value-streams elicit, validate and visualise a Capability Map, a Concept Model and a Value Stream from any business description, with validation checkpoints and XLSX + JSON exports; ba-taxonomy-standard is the shared standard they all follow.",
+  "author": {
+    "name": "PlausibleBA",
+    "url": "https://www.plausibleba.com"
+  },
+  "homepage": "https://www.plausibleba.com/install",
+  "repository": "https://github.com/plausibleba/ba-skills",
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "operating-model-context",
+    "business-architecture",
+    "capability-map",
+    "concept-model",
+    "value-stream",
+    "babok",
+    "bizbok",
+    "plausibleba"
+  ]
+}
